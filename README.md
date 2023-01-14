@@ -1,5 +1,5 @@
-##leetcode-problems-10- 
+## leetcode-problems-10- 
 
-#EM PROCESSO.. :hourglass: 
+# EM PROCESSO.. :hourglass: 
 
 ## Deixe sua ⭐ no repositório ❤️
